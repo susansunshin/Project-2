@@ -30,12 +30,12 @@ The data inclues attributes such as Winery, Wine, Year, Number of Reviews, Regio
 - With combining columns, we were able to improve R^2 score to 52% with an RMSE of 0.098 (98% accuracy)
 
 ## Price vs. Rating Visualization
-![](https://github.com/susansunshin/FoodPredictionProject/blob/main/photos/sku%20count%202.png)
+![](https://github.com/susansunshin/Wine-Rating-Project-2/blob/main/Screen%20Shot%202022-11-29%20at%202.22.36%20PM.png)
 > This graph shows the correlation between Price and Rating.
 > This is useful to understand how price highly affects rating. It's important to understand that ratings can be highly biased to someone's taste and that although it's been said that the price of wine is arbitrary, it's still something that consumers take into consideration when rating a wine.
 
 ## Rating by Type Visualization
-![](https://github.com/susansunshin/FoodPredictionProject/blob/main/photos/sum%20of%20sales.png)
+![](https://github.com/susansunshin/Wine-Rating-Project-2/blob/main/Screen%20Shot%202022-11-29%20at%202.24.40%20PM.png)
 
 > This graph shows the average rating by wine type.
 > When looking at the data this way we can see that the average rating ranges from 4.3-4.5, which is a relatively small range. 
